@@ -4,7 +4,7 @@
 
     <test name="AUT Test 1">
         <classes>
-            <class name="TestCase1"/>
+            <class name="AUTest1"/>
         </classes>
     </test>
 

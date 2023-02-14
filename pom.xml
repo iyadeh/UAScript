@@ -29,4 +29,22 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+    <build>
+        <pluginManagement>
+            <plugins>
+                <plugin>
+                    <artifactId>
+                        maven-surefire-plugin
+                    </artifactId>
+                    <configuration>
+                        <suiteXmlFiles>
+                            <suiteXmlFile>
+                                src\test\java\TestSuite.xml
+                            </suiteXmlFile>
+                        </suiteXmlFiles>
+                    </configuration>
+                </plugin>
+            </plugins>
+        </pluginManagement>
+    </build>
 </project>
