@@ -39,7 +39,7 @@
                     <configuration>
                         <suiteXmlFiles>
                             <suiteXmlFile>
-                                src\test\java\TestSuite.xml
+                                src\test\java\TestSuite1.xml
                             </suiteXmlFile>
                         </suiteXmlFiles>
                     </configuration>
