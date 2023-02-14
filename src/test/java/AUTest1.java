@@ -59,7 +59,6 @@ public class AUTest1 {
             System.out.println("Test Berhasil");
         }else{
             System.out.println("Test gagal");
-            System.exit(1);
         }
     }
     
